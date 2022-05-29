@@ -5,4 +5,4 @@
 ![FSCorrupt metrics](./github-metrics.svg)
 [![trakt-github-card](https://trakt-github-card.vercel.app/card?username=fs-corrupt&mode=watch&theme=dark)](https://github.com/pablouser1/trakt-github-card)
 [![trakt-github-card](https://trakt-github-card.vercel.app/card?username=fs-corrupt&mode=stats&theme=dark)](https://github.com/pablouser1/trakt-github-card)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ihe9gqlk9zkk72y3vxahtmao3&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ihe9gqlk9zkk72y3vxahtmao3&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ihe9gqlk9zkk72y3vxahtmao3&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=ihe9gqlk9zkk72y3vxahtmao3&redirect=true)
