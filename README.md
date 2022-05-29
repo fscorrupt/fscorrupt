@@ -6,6 +6,5 @@
 [![trakt-github-card](https://trakt-github-card.vercel.app/card?username=fs-corrupt&mode=watch&theme=dark)](https://github.com/pablouser1/trakt-github-card)
 <br>
 ![FSCorrupt metrics](./github-metrics.svg)
-<br>
 [![trakt-github-card](https://trakt-github-card.vercel.app/card?username=fs-corrupt&mode=stats&theme=dark)](https://github.com/pablouser1/trakt-github-card)
 
