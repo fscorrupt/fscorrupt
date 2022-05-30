@@ -3,6 +3,5 @@
 <br>
 [![trakt-github-card](https://trakt-github-card.vercel.app/card?username=fs-corrupt&mode=watch&theme=dark)](https://github.com/pablouser1/trakt-github-card)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ihe9gqlk9zkk72y3vxahtmao3&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=ihe9gqlk9zkk72y3vxahtmao3&redirect=true)
-[![trakt-github-card](https://trakt-github-card.vercel.app/card?username=fs-corrupt&mode=stats&theme=dark)](https://github.com/pablouser1/trakt-github-card)
 <br>
 ![FSCorrupt metrics](./github-metrics.svg)
