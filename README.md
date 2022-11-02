@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" alt="FSCorrupt" title="FSCorrupt" height="170px" src="https://avatars.githubusercontent.com/u/45659314?v=4">
+<img align="right" alt="FSCorrupt" title="FSCorrupt" height="250px" src="https://avatars.githubusercontent.com/u/45659314?v=4">
 
 ### Languages, Technologies & Tools I've used 🚀💻
 
@@ -23,6 +23,9 @@
   </a>
 </p>
 <br>
+
+
+
 
 ---
 
