@@ -2,8 +2,6 @@
 
 ---
 
-<img align="right" alt="FSCorrupt" title="FSCorrupt" height="250px" src="https://avatars.githubusercontent.com/u/45659314?v=4">
-
 ### Languages, Technologies & Tools I've used 🚀💻
 
 [![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=Python&logoColor=FFFFFF&message=Python&color=3776AB&label=)](https://www.python.org/)
