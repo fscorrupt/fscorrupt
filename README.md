@@ -12,6 +12,11 @@
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&logoColor=FFFFFF&color=F05032&label=)](https://git-scm.com/)
 [![Code](https://img.shields.io/static/v1?style=for-the-badge&logo=Visual+Studio+Code&logoColor=FFFFFF&message=Code&color=007ACC&label=)](https://code.visualstudio.com/)
+[![SCCM](https://img.shields.io/static/v1?style=for-the-badge&message=SCCM&color=007ADD&label=)](https://learn.microsoft.com/en-us/mem/configmgr/)
+[![MECM](https://img.shields.io/static/v1?style=for-the-badge&message=MECM&color=009ADD&label=)](https://learn.microsoft.com/en-us/mem/configmgr/)
+[![XAML](https://img.shields.io/static/v1?style=for-the-badge&logo=XAML&logoColor=FFFFFF&message=XAML&color=007ACC&label=)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-6.0)
+[![PLEX](https://img.shields.io/static/v1?style=for-the-badge&message=PLEX&color=FFA500&label=)](https://www.plex.tv/)
+[![Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Azure&color=010ADD&label=)](https://www.plex.tv/)
 
 ### Connect with Me 📫
 
@@ -61,6 +66,7 @@
 <details close>
 <summary>My Trakt Lists 📈</summary>
 <!-- Trakt Lists Start -->
+<br>
 Anime Shows:
 
 - [Crunchyroll Shows available in Germany & Austria](https://trakt.tv/users/fs-corrupt/lists/crunchyroll-shows)
