@@ -54,16 +54,6 @@
 </details>
 
 <details close>
-<summary>Spotify Playing 🎧</summary>
-<br>
-<p>
-  <a href="https://open.spotify.com/user/ihe9gqlk9zkk72y3vxahtmao3">
-    <img alt="Spotify" height="200px" src="https://spotify-github-profile.vercel.app/api/view?uid=ihe9gqlk9zkk72y3vxahtmao3&cover_image=false&theme=default">
-  </a>
-</p>
-</details>
-
-<details close>
 <summary>My Trakt Lists 📈</summary>
 <!-- Trakt Lists Start -->
 <br>
