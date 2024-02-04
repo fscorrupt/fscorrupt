@@ -1,4 +1,4 @@
-## Hi, I am FSCorrupt! <img alt="Wave" height="25px" src="https://i.imgur.com/3XPhsvI.gif">
+## 🇦🇹 Hi, I am FSCorrupt! <img alt="Wave" height="25px" src="https://i.imgur.com/3XPhsvI.gif">
 
 ---
 
