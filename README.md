@@ -1,4 +1,4 @@
-## 🇦🇹 Hi, I am FSCorrupt! <img alt="Wave" height="25px" src="https://i.imgur.com/3XPhsvI.gif">
+## <img alt="AT" height="25px" src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1e6-1f1f9.svg"> Hi, I am FSCorrupt! <img alt="Wave" height="25px" src="https://i.imgur.com/3XPhsvI.gif">
 
 ---
 
