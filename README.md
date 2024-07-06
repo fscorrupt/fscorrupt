@@ -104,6 +104,9 @@ Movies:
 
 ---
 
+<p align="center">
+    <a href="https://ko-fi.com/R6R81S6SC" target="_blank"><img src="https://storage.ko-fi.com/cdn/brandasset/logo_white_stroke_small.png" alt="Buy Me A Coffee" height="35"></a>
+
 <p align="center">Thanks for stopping by! Show some ❤️ by starring some of my repositories.</p>
 <p align="center">
   <a href="https://github.com/IchBinLeoon/IchBinLeoon/actions">
