@@ -4,19 +4,7 @@
 
 ### Languages, Technologies & Tools I've used 🚀💻
 
-[![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=Python&logoColor=FFFFFF&message=Python&color=3776AB&label=)](https://www.python.org/)
-[![Powershell](https://img.shields.io/static/v1?style=for-the-badge&logo=Powershell&logoColor=FFFFFF&message=Powershell&color=00ADD8&label=)](https://learn.microsoft.com/en-us/powershell/)
-[![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=HTML5&logoColor=FFFFFF&message=HTML5&color=E34F26&label=)](https://html.spec.whatwg.org/multipage/)
-[![Shell](https://img.shields.io/static/v1?style=for-the-badge&logo=Shell&logoColor=FFFFFF&message=Shell&color=1572B6&label=)](https://www.shellscript.sh/)
-[![Bash](https://img.shields.io/static/v1?style=for-the-badge&logo=Bash&logoColor=FFFFFF&message=Bash&color=4FC08D&label=)](https://www.shellscript.sh/)
-[![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
-[![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&logoColor=FFFFFF&color=F05032&label=)](https://git-scm.com/)
-[![Code](https://img.shields.io/static/v1?style=for-the-badge&logo=Visual+Studio+Code&logoColor=FFFFFF&message=Code&color=007ACC&label=)](https://code.visualstudio.com/)
-[![SCCM](https://img.shields.io/static/v1?style=for-the-badge&message=SCCM&color=007ADD&label=)](https://learn.microsoft.com/en-us/mem/configmgr/)
-[![MECM](https://img.shields.io/static/v1?style=for-the-badge&message=MECM&color=009ADD&label=)](https://learn.microsoft.com/en-us/mem/configmgr/)
-[![XAML](https://img.shields.io/static/v1?style=for-the-badge&logo=XAML&logoColor=FFFFFF&message=XAML&color=007ACC&label=)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-6.0)
-[![PLEX](https://img.shields.io/static/v1?style=for-the-badge&message=PLEX&color=FFA500&label=)](https://www.plex.tv/)
-[![Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Azure&color=010ADD&label=)](https://www.plex.tv/)
+[![My Skills](https://skillicons.dev/icons?i=powershell,linux,css,git,gitlab,github,githubactions,docker,cloudflare,bash,azure,py,regex,sqlite,ubuntu,vscode&perline=8)](https://skillicons.dev)
 
 ### Connect with Me 📫
 
