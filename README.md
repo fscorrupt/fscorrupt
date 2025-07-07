@@ -15,7 +15,14 @@
 </p>
 <br>
 
+### 3D Prints 🖨
 
+<p>
+  <a href="https://makerworld.com/@FS.Corrupt">
+    <img align="left" alt="Makerworld" title="Makerworld" width="30px" src="https://or-cloud-forum-prod.s3.dualstack.us-west-2.amazonaws.com/original/3X/3/0/3013b8b6f9c14c20f6727ff473b6b9b00084aed2.png">
+  </a>
+</p>
+<br>
 
 
 ---
