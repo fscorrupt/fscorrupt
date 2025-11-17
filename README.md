@@ -1,6 +1,15 @@
 ## <img alt="AT" height="25px" src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1e6-1f1f9.svg"> Hi, I am FSCorrupt! <img alt="Wave" height="25px" src="https://i.imgur.com/3XPhsvI.gif">
 
 ---
+### Support me
+
+<p>
+  <a href=["https://discordapp.com/users/327832511398805504](https://ko-fi.com/R6R81S6SC)">
+    <img align="left" alt="Discord" title="Discord" width="80px" src="https://storage.ko-fi.com/cdn/brandasset/logo_white_stroke_small.png">
+  </a>
+</p>
+<br>
+
 
 ### Languages, Technologies & Tools I've used 🚀💻
 
