@@ -4,7 +4,7 @@
 ### Support me
 
 <p>
-  <a href=["https://discordapp.com/users/327832511398805504](https://ko-fi.com/R6R81S6SC)">
+  <a href="https://ko-fi.com/R6R81S6SC">
     <img align="left" alt="Discord" title="Discord" width="80px" src="https://storage.ko-fi.com/cdn/brandasset/logo_white_stroke_small.png">
   </a>
 </p>
