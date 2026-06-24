@@ -40,7 +40,7 @@
 
 ### 📊 GitHub Activity & Statistics
 
-<details open>
+<details close>
 <summary><b>My Automated GitHub Metrics</b></summary>
 <br>
 <p align="center">
