@@ -36,18 +36,7 @@
 
 ---
 
-<details close>
-<summary>GitHub Statistics overview 📊</summary>
-<br>
-<p>
-  <a href="https://github.com/fscorrupt" width="100%">
-    <img alt="GitHub Stats" height="165px" src="https://github-readme-stats-ichbinleoon.vercel.app/api?username=fscorrupt&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_title=true&include_all_commits=true">
-    <img alt="Top Langs" height="165px" src="https://github-readme-stats-ichbinleoon.vercel.app/api/top-langs?username=fscorrupt&langs_count=10&layout=compact&hide_border=true&theme=dark">
-  </a>
-</p>
-</details>
-
-<details close>
+<details open>
 <summary>All GitHub Statistics 📊</summary>
 <br>
 <p>
@@ -55,55 +44,6 @@
     <img alt="GitHub Stats Big" src="./github-metrics.svg">
   </a>
 </p>
-</details>
-
-<details close>
-<summary>My Trakt Lists 📈</summary>
-<!-- Trakt Lists Start -->
-<br>
-Anime Shows:
-
-- [Crunchyroll Shows available in Germany & Austria](https://trakt.tv/users/fs-corrupt/lists/crunchyroll-shows)
-
-- [Anime Shows not on Netflix/Amazon available in Germany & Austria](https://trakt.tv/users/fs-corrupt/lists/anime-s-not-on-amazon-or-netflix)
-
-- [Amazon Anime Shows available in Germany & Austria](https://trakt.tv/users/fs-corrupt/lists/amazon-anime-s)
-
-- [Netflix Anime Shows available in Germany & Austria](https://trakt.tv/users/fs-corrupt/lists/netflix-anime-s)
-
-Shows:
-
-- [Apple Shows available in Germany & Austria](https://trakt.tv/users/fs-corrupt/lists/apple-shows)
-
-- [Disney Shows available in Germany & Austria](https://trakt.tv/users/fs-corrupt/lists/disney-shows)
-
-- [Amazon Shows available in Germany & Austria](https://trakt.tv/users/fs-corrupt/lists/amazon-shows)
-
-- [Top Rated Trending Shows](https://trakt.tv/users/fs-corrupt/lists/top-rated-trending-shows)
-
-- [Netflix Shows available in Germany & Austria](https://trakt.tv/users/fs-corrupt/lists/netflix-shows)
-
-Movies:
-
-- [Apple Movies available in Germany & Austria](https://trakt.tv/users/fs-corrupt/lists/apple-movies)
-
-- [Disney Movies available in Germany & Austria](https://trakt.tv/users/fs-corrupt/lists/disney-movies)
-
-- [Amazon Movies available in Germany & Austria](https://trakt.tv/users/fs-corrupt/lists/amazon-movies)
-
-- [Netflix Movies available in Germany & Austria](https://trakt.tv/users/fs-corrupt/lists/netflix-movies)
-
-- [Crunchyroll Movies available in Germany & Austria](https://trakt.tv/users/fs-corrupt/lists/crunchyroll-movies)
-
-- [Top Rated Trending Movies](https://trakt.tv/users/fs-corrupt/lists/top-rated-trending-movies)
-
-- [Best Rated Movies in 2021](https://trakt.tv/users/fs-corrupt/lists/best-rated-in-2021)
-
-- [Best Rated Movies in 2022](https://trakt.tv/users/fs-corrupt/lists/best-rated-in-2022)
-
-- [Best Movies of Austria](https://trakt.tv/users/fs-corrupt/lists/best-of-austria)
-
-<!-- Trakt Lists End -->
 </details>
 
 ---
