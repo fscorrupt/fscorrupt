@@ -1,59 +1,77 @@
-## <img alt="AT" height="25px" src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1e6-1f1f9.svg"> Hi, I am FSCorrupt! <img alt="Wave" height="25px" src="https://i.imgur.com/3XPhsvI.gif">
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyZ/giphy.gif" width="30px"/>
+  <h1><b>Hi there, I'm FSCorrupt</b></h1>
+  <h3>Senior System Engineer | Creator of Posterizarr | Automation Enthusiast</h3>
+</div>
+
+<p align="center">
+  <a href="https://github.com/fscorrupt">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=System+Administration+%26+DevOps;Creator+of+Posterizarr;PowerShell,+Python+%26+Go+Developer;Media+Ecosystem+Automation;3D+Printing+%26+Smart+Home+Tinkerer" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/fscorrupt">
+    <img alt="Views" src="https://komarev.com/ghpvc/?username=fscorrupt&label=PROFILE+VIEWS&color=blue&style=flat-square">
+  </a>
+</p>
 
 ---
-### Support me
 
-<p>
-  <a href="https://ko-fi.com/R6R81S6SC">
-    <img align="left" alt="Discord" title="Discord" width="80px" src="https://storage.ko-fi.com/cdn/brandasset/logo_white_stroke_small.png">
-  </a>
-</p>
-<br>
+### 👨‍💻 About Me
 
-
-### Languages, Technologies & Tools I've used 🚀💻
-
-[![My Skills](https://skillicons.dev/icons?i=powershell,linux,css,git,gitlab,github,githubactions,docker,cloudflare,bash,azure,py,regex,sqlite,ubuntu,vscode&perline=8)](https://skillicons.dev)
-
-### Connect with Me 📫
-
-<p>
-  <a href="https://discordapp.com/users/327832511398805504">
-    <img align="left" alt="Discord" title="Discord" width="30px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png">
-  </a>
-</p>
-<br>
-
-### 3D Prints 🖨
-
-<p>
-  <a href="https://makerworld.com/@FS.Corrupt">
-    <img align="left" alt="Makerworld" title="Makerworld" width="30px" src="https://or-cloud-forum-prod.s3.dualstack.us-west-2.amazonaws.com/original/3X/3/0/3013b8b6f9c14c20f6727ff473b6b9b00084aed2.png">
-  </a>
-</p>
-<br>
-
+- 🔭 I’m the primary developer behind **[Posterizarr](https://github.com/fscorrupt/Posterizarr)**, building tools for media server automation.
+- 💻 I spend my time writing and refactoring robust scripts in **PowerShell, Python, and Go**.
+- 🛠️ Deeply involved in managing media ecosystems across **Plex, Jellyfin, Emby, and Kavita**.
+- 🏠 Constantly tinkering with **Home Assistant** for power monitoring, automation, and security.
+- 🖨️ When I'm away from the keyboard, I'm likely 3D printing multi-color models, managing a massive Manga collection, or playing a few rounds of *Hunt Showdown*.
 
 ---
+
+### 🚀 Languages, Technologies & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=powershell,python,go,bash,linux,docker,cloudflare,githubactions,git,sqlite,regex,azure,ubuntu,vscode&perline=14" alt="My Skills"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity & Statistics
 
 <details open>
-<summary>All GitHub Statistics 📊</summary>
+<summary><b>My Automated GitHub Metrics</b></summary>
 <br>
-<p>
+<p align="center">
+  <!-- Sourced from your lowlighter/metrics workflow -->
   <a href="https://github.com/fscorrupt" width="100%">
     <img alt="GitHub Stats Big" src="./github-metrics.svg">
   </a>
 </p>
 </details>
 
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fscorrupt&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fscorrupt&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff" alt="GitHub Streak" width="48%" />
+</p>
+
 ---
 
-<p align="center">
-    <a href="https://ko-fi.com/R6R81S6SC" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" height="35"></a>
+### 📫 Connect with Me & Support My Work
 
-<p align="center">Thanks for stopping by! Show some ❤️ by starring some of my repositories.</p>
 <p align="center">
-  <a href="https://github.com/IchBinLeoon/IchBinLeoon/actions">
-    <img alt="Views" src="https://komarev.com/ghpvc/?username=fscorrupt&label=PROFILE+VIEWS&color=orange">
+  <a href="https://discordapp.com/users/327832511398805504" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://makerworld.com/@FS.Corrupt" target="_blank">
+    <img alt="Makerworld" src="https://img.shields.io/badge/3D_Prints-MakerWorld-00C4B6?style=for-the-badge&logo=bambulab&logoColor=white"/>
+  </a>
+  <a href="https://ko-fi.com/R6R81S6SC" target="_blank">
+    <img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--Fi-Support_Me-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
   </a>
 </p>
+
+<p align="center"><i>Thanks for stopping by! Show some ❤️ by starring some of my repositories.</i></p>
